@@ -1,0 +1,44 @@
+body{
+  background-image: url("https://thumbs.dreamstime.com/b/pizza-seamless-pattern-background-pizza-vector-illustration-77208327.jpg");
+  }
+
+.center{
+  display: block;
+  margin-top: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  z-index: -1;
+}
+
+div {  
+  -webkit-animation: spin 4s infinite linear;
+}
+
+@-webkit-keyframes spin {
+  0%  {-webkit-transform: rotate(0deg);}
+  100% {-webkit-transform: rotate(360deg);}   
+}
+
+h1{
+  font-size: 75px; 
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 4px 4px white;
+
+}
+ul{
+  font-size: 50px; 
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+ul li{
+  list-style:none;
+  text-shadow: 2px 2px white;
+}
+
+a{
+  color: black;
+}
