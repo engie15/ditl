@@ -1,0 +1,28 @@
+.center 
+{display: block;
+    margin-left: auto;
+margin-right: auto;
+width: 50%}
+.textalignment
+{text-align: center;
+    background-color: rgb(82, 53, 29);
+    width: 50%; 
+    margin: auto;
+}
+.headercolor {
+    color: antiquewhite
+}
+.linkstyle {
+    text-align: center;
+    text-justify: auto
+    width: 50%; 
+    margin: auto;
+    font-size: 40px;
+}
+.textcolor
+{text-align: center;
+    background-color: rgb(7, 68, 2);
+    width: 50%; 
+    margin: auto;
+    color: white
+}
