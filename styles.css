@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color:white;
+    width: 800px;
+    margin:auto;
+}
+figure {
+    margin: 0;
+    padding: 0;
+}
+img {
+    width:800px;
+    height:400px;
+}
+#mydate {
+   color:green; 
+   font-size:30px;
+}
+#temperature {
+    color:aqua;
+    font-size:30px;
+}
